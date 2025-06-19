@@ -1,2 +1,3 @@
 # PRODIGY_GA-02
 Utilizing pre-trained generative models like DALL-E-mini or Stable Diffusion to create images from text prompts.
+Using pre-trained generative models such as DALL·E Mini and Stable Diffusion to transform textual descriptions into visually compelling images. These models are capable of generating highly detailed and contextually relevant visuals based on simple or complex natural language prompts. This approach enables creative exploration, rapid prototyping, and automated image generation for various applications including digital art, advertising, content creation, and more. By harnessing the power of generative AI, users can seamlessly bridge the gap between imagination and visualization.
